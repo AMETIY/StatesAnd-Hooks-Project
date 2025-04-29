@@ -16,7 +16,7 @@ This is a Class Project on React States and Hooks.
 ### 1. Clone the Repository
 
 https://github.com/AMETIY/StatesAnd-Hooks-Project.git
-cd StatesAnd-Hooks-Project
+- cd StatesAnd-Hooks-Project
 
 ### 2 . Install Dependencies
 - npm install
